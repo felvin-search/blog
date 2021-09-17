@@ -31,3 +31,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 h2 {
   font-size: 2rem !important;
 }
+
+h1 {
+  font-size: 38px !important;
+}
