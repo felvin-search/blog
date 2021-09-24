@@ -4,9 +4,16 @@
         <title>Felvin Search Blog Blog</title>
         <link>https://blog.felvin.com/</link>
         <description>Felvin Search Blog Blog</description>
-        <lastBuildDate>Sat, 12 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We are now called Felvin 🪄✨]]></title>
+            <link>https://blog.felvin.com/we-are-now-called-felvin</link>
+            <guid>we-are-now-called-felvin</guid>
+            <pubDate>Fri, 24 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Why we changed the name from Neera to Felvin]]></description>
+        </item>
         <item>
             <title><![CDATA[Amazon for Search [Re-explained]]]></title>
             <link>https://blog.felvin.com/amazon-for-search</link>

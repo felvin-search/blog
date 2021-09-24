@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.felvin.com/</id>
     <title>Felvin Search Blog Blog</title>
-    <updated>2021-06-12T00:00:00.000Z</updated>
+    <updated>2021-09-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.felvin.com/"/>
     <subtitle>Felvin Search Blog Blog</subtitle>
     <icon>https://blog.felvin.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[We are now called Felvin 🪄✨]]></title>
+        <id>we-are-now-called-felvin</id>
+        <link href="https://blog.felvin.com/we-are-now-called-felvin"/>
+        <updated>2021-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why we changed the name from Neera to Felvin]]></summary>
+        <author>
+            <name>Harsh Gupta</name>
+            <uri>https://github.com/hargup</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon for Search [Re-explained]]]></title>
         <id>amazon-for-search</id>
