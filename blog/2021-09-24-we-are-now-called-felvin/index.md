@@ -9,11 +9,9 @@ image: ./banner.png
 ---
 
 
-**Title: 
-
-Neera is now called Felvin! Felvin is the younger, stronger, smarter
+[Neera](https://neera.ai) is now called [Felvin](https://felvin.com)! Felvin is the younger, stronger, smarter
 nephew of the wizard
-[[Merlin]{.ul}](https://en.wikipedia.org/wiki/Merlin). Out on a quest to
+[Merlin](https://en.wikipedia.org/wiki/Merlin). Out on a quest to
 write his own story. Whatever you want, Felvin will find it for you.
 
 **Why change names?**
@@ -32,7 +30,7 @@ Google or Bing.
 People were getting confused. Even friends thought perhaps we made a
 typo 😬. And then, another company pivoted, changed their business model
 and called themselves NIRA
-([[https://nira.com/]{.ul}](https://nira.com/)) 🙈
+([https://nira.com/](https://nira.com/)) 🙈
 
 We realized that continuing with the name "Neera" is only going to hurt
 us. Being water also means being willing to adapt according to the
@@ -45,7 +43,7 @@ dotcom domain available. After a lot of work, we invented the name
 "Felvin". Felvin is short, and sweet, just six characters. It turns out
 the word is not new, but it is fairly unique and we were not only able
 to get a dotcom but a lot of its variations as well :P including
-[[felv.in]{.ul}](http://felv.in)
+[felv.in](http://felv.in)
 
 It has been little over a month since we decided on Felvin, and we have
 grown to really like it.
