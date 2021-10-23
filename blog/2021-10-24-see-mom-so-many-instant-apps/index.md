@@ -70,11 +70,29 @@ A Photo hosting service Instant App that greatly facilitates everyday work with 
 An Instant app for cropping images, enabling easy selection, cropping and downloading images.
 <img src="https://imgur.com/iH7x4m6.jpg">
 
-## Winner 3
+## Rajiv Harlalka
 
 ### Bio
+Hola everyone 😃! Rajiv(aka: Vijard 🧙🏻‍♂️ ) this side . I am a second year UG student at IIT Kharagpur , currently motivated more towards backend engineering and web development (🕸️ <-- not this one ofc ) . Contributions to this project was start to my open-source journey and hoping to do more in the near future. Learnt a lot about UI styling and React during this hackathon as well as contributing in this project.
 
 ### Apps Created:
+
+#### Color Picker
+Color Picker, allows user to pick colors
+![image](https://user-images.githubusercontent.com/68731551/137625898-82ad8fa4-069c-43a4-b6c5-5eb09b1827ef.png)
+
+#### Crypto Prices
+See live prices of crypto currencies like Bitcoin and Etherium
+![Desktop View](https://user-images.githubusercontent.com/68731551/137580210-1cb65691-e608-4ae6-a2e6-c90c9e623189.png)
+
+#### Live Markdown Preview
+Live Markdown editor and preview
+![image](https://user-images.githubusercontent.com/68731551/137540834-866bca2d-8b63-44fd-ab79-7e08de2b9e24.png)
+
+#### Image Compressor
+Compresses and image to save space, can be useful for Government forms which have limit on image sizes.
+
+![image](https://user-images.githubusercontent.com/68731551/137601598-fe203428-d3c5-424b-8a40-255fdd8c3167.png)
 
 ## Winner 4
 
