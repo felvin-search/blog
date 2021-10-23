@@ -94,8 +94,31 @@ Compresses and image to save space, can be useful for Government forms which hav
 
 ![image](https://user-images.githubusercontent.com/68731551/137601598-fe203428-d3c5-424b-8a40-255fdd8c3167.png)
 
-## Winner 4
+## Chirag Ghosh
 
 ### Bio
+Heya! Chirag here. I am a student interested in coding and trying to fit in the open-source world. I love web development ( frontend more ). Also, I love clicking photos.
 
 ### Apps Created:
+#### JWT Token decoder 
+
+[PR Link](https://github.com/felvin-search/instant-apps/pull/181)This instant app will help developers validate the JWT tokens.
+![Screenshot from 2021-10-16 19-31-33](https://user-images.githubusercontent.com/75582834/137622649-cdd390b7-362b-4288-8b50-27b31c2a5b1e.png)
+
+
+#### Pokedex 
+[PR Link](https://github.com/felvin-search/instant-apps/pull/189) : 
+Ofcourse the pokemon world is lovely. Fulfilling the love for pokemon is an instant app a.k.a mini pokedex.
+
+![screenshot](https://user-images.githubusercontent.com/75582834/137622671-9f3f4cd6-8f9b-4da2-a0ab-d278e2f64422.png)
+
+
+#### The TV Shows app 
+[PR Link](https://github.com/felvin-search/instant-apps/pull/190) 
+My friends suggest me various TV series all day. Getting info about them with just one click is kinda a necessity now. This app caters to that need.
+![screenshot](https://user-images.githubusercontent.com/75582834/137622695-04658a0b-6cfd-4e12-9afe-408279cf3c13.png)
+
+#### URL Shortener 
+
+[PRLink](https://github.com/felvin-search/instant-apps/pull/194) : No more lengthy urls. cut them short. (Bonus: Rickroll your friends using a different link. Satisfaction!).
+![screenshot](https://user-images.githubusercontent.com/75582834/137626756-c86000ef-9afa-4690-aa8e-65fb0d7d1cff.png)
