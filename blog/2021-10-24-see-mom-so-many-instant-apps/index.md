@@ -43,11 +43,32 @@ Merge multiple PDFs into 1 PDF
 Check out what the hello world program looks like in over 650 languages (this is an app I've personally wanted to have since long)
 ![image](https://user-images.githubusercontent.com/68962290/137635306-8d28fe58-3195-408b-bb94-ac2c844f362d.png)
 
-## Winner 2
+##  Harsh Mishra 
 
 ### Bio
+Hey, I am Harsh Mishra, a Junior in ECE at IIT Dhanbad. I am a Machine Learning and an Open Source Enthusiast. This year I had my Google Summer of Code with AOSSIE organisation. I love to work on projects solving real-life problems. These days I am exploring Web Dev.
+
+This hackathon has helped me brush up on my React Skills. I learned about many different modules, which I hadn't encountered till now. I also learned about styled-components too.
+
+From my personal Experience, Creating Instant Apps was super cool and easy, and I'll be looking forward to contributing further.
 
 ### Apps Created:
+#### Flip a coin
+
+An instant app that simulates flipping a coin and results in either Heads or Tails.
+<img src="https://imgur.com/pM8n2H0.jpg" > 
+
+#### Unit Convertor
+Users will now be able to perform Unit conversions with the support of 45 different unit types. No longer need to search for other converters.
+<img src="https://imgur.com/NJwvyFY.jpg" >
+
+#### Photo Hosting
+A Photo hosting service Instant App that greatly facilitates everyday work with various types of graphics. It helps to create a URL for our images quickly to promote sharing them with other users easily.
+<img src="https://imgur.com/au1gKZH.jpg">
+
+#### Image Cropper
+An Instant app for cropping images, enabling easy selection, cropping and downloading images.
+<img src="https://imgur.com/iH7x4m6.jpg">
 
 ## Winner 3
 
