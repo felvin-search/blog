@@ -4,9 +4,16 @@
         <title>Felvin Search Blog Blog</title>
         <link>https://blog.felvin.com/</link>
         <description>Felvin Search Blog Blog</description>
-        <lastBuildDate>Fri, 24 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[See mom, so many instant apps 😍]]></title>
+            <link>https://blog.felvin.com/hackathon-oct-2021</link>
+            <guid>hackathon-oct-2021</guid>
+            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How did the hackathon go?]]></description>
+        </item>
         <item>
             <title><![CDATA[We are now called Felvin 🪄✨]]></title>
             <link>https://blog.felvin.com/we-are-now-called-felvin</link>

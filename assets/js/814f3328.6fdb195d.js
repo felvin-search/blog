@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"We are now called Felvin \ud83e\ude84\u2728","permalink":"/we-are-now-called-felvin"},{"title":"Amazon for Search [Re-explained]","permalink":"/amazon-for-search"}]}')}}]);
