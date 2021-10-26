@@ -1,6 +1,6 @@
 ---
 title: See mom, so many instant apps 😍 
-description: ow did the hackathon go?
+description: How did the hackathon go?
 slug: we-are-now-called-felvin
 authors:
   - hargup
