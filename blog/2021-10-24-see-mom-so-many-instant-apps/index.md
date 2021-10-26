@@ -1,7 +1,7 @@
 ---
 title: See mom, so many instant apps 😍 
 description: How did the hackathon go?
-slug: we-are-now-called-felvin
+slug: hackathon-oct-2021
 authors:
   - hargup
 tags: []
