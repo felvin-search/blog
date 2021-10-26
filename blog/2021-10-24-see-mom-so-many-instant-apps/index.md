@@ -18,7 +18,9 @@ Last weekend at Felvin, we hosted an open source hackathon on instant apps. The 
 
 👋 I am Nehal Sharma, a 2nd year student at IIIT Lucknow, studying Computer Science. I enjoy web development, and love contributing to open source. These days I'm engrossed in Hacktoberfest, and it's been both hectic and fun, and of course full of learning! Thanks to this project, I learnt how to write styled components, and brushed up my React skills this weekend.
 
-### Apps Created:
+GitHub: [@N-Shar-ma](https://github.com/N-Shar-ma)
+
+### Apps Created
 
 #### Markdown to HTML
 
@@ -60,7 +62,9 @@ This hackathon has helped me brush up on my React Skills. I learned about many d
 
 From my personal Experience, Creating Instant Apps was super cool and easy, and I'll be looking forward to contributing further.
 
-### Apps Created:
+GitHub: [@MiHarsh](https://github.com/MiHarsh)
+
+### Apps Created
 
 #### Flip a coin
 
@@ -90,7 +94,9 @@ An Instant app for cropping images, enabling easy selection, cropping and downlo
 
 Hola everyone 😃! Rajiv(aka: Vijard 🧙🏻‍♂️ ) this side . I am a second year UG student at IIT Kharagpur , currently motivated more towards backend engineering and web development (🕸️ <-- not this one ofc ) . Contributions to this project was start to my open-source journey and hoping to do more in the near future. Learnt a lot about UI styling and React during this hackathon as well as contributing in this project.
 
-### Apps Created:
+GitHub: [@rajivharlalka](https://github.com/rajivharlalka)
+
+### Apps Created
 
 #### Color Picker
 
@@ -120,7 +126,9 @@ Compresses and image to save space, can be useful for Government forms which hav
 
 Heya! Chirag here. I am a student interested in coding and trying to fit in the open-source world. I love web development ( frontend more ). Also, I love clicking photos.
 
-### Apps Created:
+GitHub: [@chirag828049](https://github.com/chirag828049)
+
+### Apps Created
 
 #### JWT Token decoder
 
