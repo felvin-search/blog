@@ -152,3 +152,8 @@ My friends suggest me various TV series all day. Getting info about them with ju
 
 [PRLink](https://github.com/felvin-search/instant-apps/pull/194) : No more lengthy urls. cut them short. (Bonus: Rickroll your friends using a different link. Satisfaction!).
 ![shorten-url](instant-app-screenshots/shorten-url.png)
+
+
+----
+
+Curious? Checkout our [instant-apps github repository](https://github.com/felvin-search/instant-apps) to learn more about instant apps. Happy Hacking 💻
