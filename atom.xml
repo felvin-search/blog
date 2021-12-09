@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.felvin.com/</id>
     <title>Felvin Search Blog Blog</title>
-    <updated>2021-10-24T00:00:00.000Z</updated>
+    <updated>2021-12-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.felvin.com/"/>
     <subtitle>Felvin Search Blog Blog</subtitle>
     <icon>https://blog.felvin.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9th Dec Release Day - New apps, new contributors, bigger team and more]]></title>
+        <id>9th-dec-release-day</id>
+        <link href="https://blog.felvin.com/9th-dec-release-day"/>
+        <updated>2021-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Release day]]></summary>
+        <author>
+            <name>Sahil Shubham</name>
+            <uri>https://github.com/sahil-shubham</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[See mom, so many instant apps 😍]]></title>
         <id>hackathon-oct-2021</id>

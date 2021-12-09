@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[964],{8866:function(e){e.exports=JSON.parse('{"/tags/release-day":{"allTagsPath":"/tags","slug":"/tags/release-day","name":"release-day","count":1,"permalink":"/tags/release-day"}}')}}]);
