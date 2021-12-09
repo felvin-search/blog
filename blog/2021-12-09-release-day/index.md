@@ -7,7 +7,7 @@ authors:
 tags: [release-day]
 ---
 
-We are resuming our weekly releases once again. 
+We are resuming our weekly releases once again! 
 
 ## New
 
