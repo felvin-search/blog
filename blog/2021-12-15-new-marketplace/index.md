@@ -7,7 +7,7 @@ authors:
 tags: []
 ---
 
-Until now, there was no obvious and easy way to appreciate the variety and ever growing number of Instant Apps Felvin has to offer. I understood how important **an Instant Apps' Marketplace, a place where you could view and try out all the available apps in a swift and easy manner**, would be, and hence this is the problem I sought to fix during my internship with Felvin!
+Until now, there was no obvious and easy way to appreciate the variety and ever growing number of the open source Instant Apps Felvin has to offer. I understood how important **an Instant Apps' Marketplace, a place where you could view and try out all the available apps in a swift and easy manner**, would be, and hence this is the problem I sought to fix during my internship with Felvin!
 
 ## The Actual Issue
 
@@ -21,4 +21,6 @@ Once I had figured out the cause of the errors, the rest was relatively smooth s
 
 ## A Surprise Bonus
 
-Until I made the Marketplace self updating, I thought of extracting the data of all current Instant Apps to have a somewhat updated Marketplace in its lieu. While trying out ways to do so, I ended up making a temporary (or so I initially thought) Instant App to provide me the current data of all the apps in JSON format. Soon I realized that with some UI changes, this Instant App can be used as an alternative showcase for all Instant Apps! Anytime you ~~search~~ *felvin* something like "[Felvin Instant Apps](https://felvin.com/search?q=Felvin%20Instant%20Apps)" or "[what instant apps are available](https://felvin.com/search?q=what%20instant%20apps%20are%20available)" a carousel showcasing all the Instant Apps will appear. An Instant App of Instant Apps... isn't that so meta?!
+Until I made the Marketplace self updating, I thought of extracting the data of all current Instant Apps to have a somewhat updated Marketplace in its lieu. While trying out ways to do so, I ended up making a temporary (or so I initially thought) Instant App to provide me the current data of all the apps in JSON format. Soon I realized that with some UI changes, this Instant App can be used as an alternative showcase for all Instant Apps! Anytime you ~~search~~ *felvin* something like "[Felvin Instant Apps](https://felvin.com/search?q=Felvin%20Instant%20Apps)" or "[what instant apps are available](https://felvin.com/search?q=what%20instant%20apps%20are%20available)" a carousel showcasing all the Instant Apps will appear. 
+
+An Instant App of Instant Apps... isn't that so meta?!
