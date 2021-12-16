@@ -3,6 +3,10 @@ title: "Wanna do a bubble sort, askout Felvin"
 description: "An instant App that returns code snippets"
 
 date: 2021-12-16
+
+authors:
+  - rajivharlalka
+tags: []
 ---
 
 
@@ -25,4 +29,4 @@ Demo:
 
 ### The extra edge
 
-Since the Monaco editor is itself used by vscode, it provides code completion for the languages which would help users to write code :tadagit a:
+Since the Monaco editor is itself used by vscode, it provides code completion for the languages which would help users to write code :tada:
