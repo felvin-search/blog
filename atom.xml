@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.felvin.com/</id>
     <title>Felvin Search Blog Blog</title>
-    <updated>2021-12-15T00:00:00.000Z</updated>
+    <updated>2021-12-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.felvin.com/"/>
     <subtitle>Felvin Search Blog Blog</subtitle>
     <icon>https://blog.felvin.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wanna do a bubble sort, askout Felvin]]></title>
+        <id>Wanna do a bubble sort, askout Felvin</id>
+        <link href="https://blog.felvin.com/2021/12/16/rajiv's-intern-blog"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An instant App that returns code snippets]]></summary>
+        <author>
+            <name>Rajiv Harlalka</name>
+            <uri>https://github.com/rajivharlalka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I created an Instant App of all Instant Apps!]]></title>
         <id>creating-felvin-instant-apps-marketplace</id>
