@@ -9,7 +9,7 @@ tags: []
 
 Abandoning the comfortable familiarity of Google and changing your default search engine to Felvin can be a big leap to take for some. That's why I made a browser extension to make the switch much more smooth for anyone curious about Felvin! **The Felvin Instant Apps Browser Extension allows you to benefit from the full range of Instant Apps right inside the Google Search Page**, without needing to change search engines, if you're not yet ready to take the leap.
 
-Coming soon to the Chrome Web Store!
+**Add it to your browser (Chrome/Edge) [here](https://chrome.google.com/webstore/detail/felvin-instant-apps-brows/dmhgpjahhfannndnaghleelgnpieiljl)!**
 
 ![Screenshot](./screenshot/unixTimeSS.png)
 
