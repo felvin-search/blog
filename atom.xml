@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.felvin.com/</id>
     <title>Felvin Search Blog Blog</title>
-    <updated>2021-12-16T00:00:00.000Z</updated>
+    <updated>2022-01-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.felvin.com/"/>
     <subtitle>Felvin Search Blog Blog</subtitle>
     <icon>https://blog.felvin.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bringing Felvin Instant Apps To Google Search!]]></title>
+        <id>felvin-instant-apps-browser-extension</id>
+        <link href="https://blog.felvin.com/felvin-instant-apps-browser-extension"/>
+        <updated>2022-01-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My Internship Project]]></summary>
+        <author>
+            <name>Nehal Sharma</name>
+            <uri>https://github.com/N-Shar-ma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wanna do a bubble sort, askout Felvin]]></title>
         <id>Wanna do a bubble sort, askout Felvin</id>

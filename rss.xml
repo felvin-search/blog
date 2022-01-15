@@ -4,9 +4,16 @@
         <title>Felvin Search Blog Blog</title>
         <link>https://blog.felvin.com/</link>
         <description>Felvin Search Blog Blog</description>
-        <lastBuildDate>Thu, 16 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bringing Felvin Instant Apps To Google Search!]]></title>
+            <link>https://blog.felvin.com/felvin-instant-apps-browser-extension</link>
+            <guid>felvin-instant-apps-browser-extension</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[My Internship Project]]></description>
+        </item>
         <item>
             <title><![CDATA[Wanna do a bubble sort, askout Felvin]]></title>
             <link>https://blog.felvin.com/2021/12/16/rajiv's-intern-blog</link>
